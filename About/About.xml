@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>lecht.extractTreeOrder</packageId>
+    <name>Extract tree order</name>
+    <modVersion>1.0</modVersion>
+    <authors>
+        <li>Lecht</li>
+    </authors>
+    <description>This mod adds a new "Extract Tree" option to the orders menu in RimWorld. With this feature, you can mark trees to be carefully dug up and moved to a new location instead of cutting them down.</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>
