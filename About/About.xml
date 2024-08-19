@@ -2,7 +2,7 @@
 <ModMetaData>
     <packageId>lecht.extractTreeOrder</packageId>
     <name>Extract tree order</name>
-    <modVersion>1.0</modVersion>
+    <modVersion>1.01</modVersion>
     <authors>
         <li>Lecht</li>
     </authors>
